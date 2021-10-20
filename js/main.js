@@ -17,3 +17,5 @@ console.log(colorPref)
 
 // Mostrare output a schermo
 // - impostare elemento
+// - impostare il valore all'elemento selezionato
+document.getElementById('password').innerHTML = firstName + lastName + colorPref + '21';
